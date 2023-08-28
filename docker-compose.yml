@@ -46,9 +46,3 @@ services:
 volumes:
   vprodbdata: {}
   vproappdata: {}
-
-
-
-  
-
-  
